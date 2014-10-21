@@ -1,0 +1,8 @@
+{
+  "name": "angular-localizer",
+  "version": "1.0.0",
+  "main": "./angular-localizer.js",
+  "dependencies": {
+    "angular": ">=1.2.13"
+  }
+}
