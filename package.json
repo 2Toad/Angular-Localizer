@@ -1,5 +1,5 @@
 {
-  "name": "Angular-localizr",
+  "name": "Angular-Localizer",
   "version": "1.0.0",
   "description": "Localization framework for angularjs",
   "main": "angular-localizer.js",
@@ -11,7 +11,7 @@
     "angular",
     "localization"
   ],
-  "author": "Jason Pierce",
+  "author": "2Toad",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/2Toad/Angular-Localizer/issues"
