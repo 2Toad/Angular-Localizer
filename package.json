@@ -1,0 +1,20 @@
+{
+  "name": "Angular-Localizer",
+  "version": "1.0.0",
+  "description": "Localization framework for angularjs",
+  "main": "angular-localizer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2Toad/Angular-Localizer"
+  },
+  "keywords": [
+    "angular",
+    "localization"
+  ],
+  "author": "2Toad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2Toad/Angular-Localizer/issues"
+  },
+  "homepage": "https://github.com/2Toad/Angular-Localizer"
+}
