@@ -1,0 +1,23 @@
+{
+  "name": "Angular-localizr",
+  "version": "1.0.0",
+  "description": "Localization framework for angularjs",
+  "main": "angular-localizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2Toad/Angular-Localizer"
+  },
+  "keywords": [
+    "angular",
+    "localization"
+  ],
+  "author": "Jason Pierce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2Toad/Angular-Localizer/issues"
+  },
+  "homepage": "https://github.com/2Toad/Angular-Localizer"
+}
