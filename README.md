@@ -1,4 +1,3 @@
-Angular-Localizer
-=================
+# Angular-Localizer
 
 Localization for Angular applications
