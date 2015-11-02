@@ -2,8 +2,8 @@
  * Angular-Localizer
  * Copyright (C)2014 2Toad, LLC.
  * http://2toad.github.io/Angular-Localizer
- * 
- * Version: 1.0.0
+ *
+ * Version: 1.1.0
  * License: MIT
  */
 
